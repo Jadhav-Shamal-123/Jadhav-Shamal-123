@@ -1,3 +1,4 @@
+![logo](https://github.com/Jadhav-Shamal-123/Jadhav-Shamal-123/blob/main/github-header-image%20(10).png)
 <h1 align="center">Hi 👋, I'm Shamal Jadhav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
