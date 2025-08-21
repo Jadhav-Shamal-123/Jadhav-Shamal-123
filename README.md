@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data-Structure and Algorithms**
 
-- 💬 Ask me about **Java,C,PHP**
+- 💬 Ask me about **C++,Java,Dbms,Os,Networking**
 
 - 📫 How to reach me **shamalj122@gmail.com**
 
